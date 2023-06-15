@@ -29,7 +29,7 @@ In this example, you can see how to create Vite custom bundle for DevExtreme Vue
 
 You can also modify the *main.js* file to include only necessary for your bundle components.
 
-Bundle will be located in the dist folder. 
+The bundle will be located in the *dist* folder. 
 
 ## Documentation
 
