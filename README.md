@@ -5,32 +5,30 @@
 
 # DevExtreme with Vite - How to create a bundle with DevExtreme Vue components
 
-In this example, you can see how to create Vite custom bundle for DevExtreme Vue components. 
+In this example, you can see how to create a Vite custom bundle for DevExtreme Vue components. 
 
 ## Getting started 
-1. Clone the repository
+1. Clone the repository.
  ``` text
  git clone https://github.com/DevExpress-Examples/devextreme-vite-vue-bundling.git
  ```
 
-2. Go to the project folder
+2. Go to the project folder.
  ``` text
  cd devextreme-vite-vue-bundling
  ```
 
-3. Install the required modules
+3. Install the required modules.
  ``` text
  npm install
  ```
 
-4. Bundle the modules
+4. Bundle the modules. The bundle is located in the *dist* folder. 
  ``` text
  npm run build
  ```
 
 You can also modify the *main.js* file to include only necessary for your bundle components.
-
-Bundle will be located in the dist folder. 
 
 ## Documentation
 
