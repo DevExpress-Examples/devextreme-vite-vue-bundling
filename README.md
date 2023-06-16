@@ -27,7 +27,7 @@ In this example, you can see how to create a Vite custom bundle for DevExtreme V
  npm run build
  ```
 
-You can also modify the *main.js* file to include only necessary for your bundle components.
+You can also modify the *main.js* file to include only modules necessary for your bundle components.
 
 ## Documentation
 
