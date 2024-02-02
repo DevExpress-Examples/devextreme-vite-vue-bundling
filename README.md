@@ -23,10 +23,20 @@ In this example, you can see how to create a Vite custom bundle for DevExtreme V
  npm install
  ```
 
-4. Bundle the modules. The bundle is located in the *dist* folder. 
+4. Bundle the modules. The bundle is located in the *devextreme-bundle* folder. 
  ``` text
- npm run build
+ npm run build:devextreme-bundle
  ```
+
+5. Start Vue app to test the bundle. 
+``` text
+npm run dev
+```
+or 
+``` text
+npm run build
+npm run preview
+```
 
 You can also modify the *main.js* file to include only modules necessary for your bundle components.
 
