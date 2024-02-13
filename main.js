@@ -1,4 +1,11 @@
 export { DxButton } from "devextreme-vue/button";
+export { 
+    DxDataGrid,
+    DxColumn as DxGridColumn,
+    DxEditing as DxGridEditing,
+    DxPaging as DxGridPaging,
+    DxLookup as DxGridLookup,
+} from "devextreme-vue/data-grid";
 
 // export { DxAccordion } from "devextreme-vue/accordion";
 // export { DxActionSheet } from "devextreme-vue/action-sheet";
@@ -13,7 +20,6 @@ export { DxButton } from "devextreme-vue/button";
 // export { DxCircularGauge } from "devextreme-vue/circular-gauge";
 // export { DxColorBox } from "devextreme-vue/color-box";
 // export { DxContextMenu } from "devextreme-vue/context-menu";
-// export { DxDataGrid } from "devextreme-vue/data-grid";
 // export { DxDateBox } from "devextreme-vue/date-box";
 // export { DxDeferRendering } from "devextreme-vue/defer-rendering";
 // export { DxDiagram } from "devextreme-vue/diagram";
