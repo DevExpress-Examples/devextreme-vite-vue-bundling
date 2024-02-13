@@ -1,4 +1,11 @@
 export { DxButton } from "devextreme-vue/button";
+export { 
+    DxDataGrid,
+    DxColumn as DxGridColumn,
+    DxEditing as DxGridEditing,
+    DxPaging as DxGridPaging,
+    DxLookup as DxGridLookup,
+} from "devextreme-vue/data-grid";
 
 // export { DxAccordion } from "devextreme-vue/accordion";
 // export { DxActionSheet } from "devextreme-vue/action-sheet";
