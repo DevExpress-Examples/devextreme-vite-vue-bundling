@@ -45,7 +45,7 @@ You can also modify the *main.js* file to include only modules necessary for you
 
 - [Add DevExtreme to a Vue Application](https://js.devexpress.com/Documentation/Guide/Vue_Components/Add_DevExtreme_to_a_Vue_Application/)
 
-- [Additional Configuration for Vite](https://js.devexpress.com/Documentation/Guide/Vue_Components/Add_DevExtreme_to_a_Vue_Application/#Additional_Configuration_for_Vite)
+- [Create a Custom Bundle](https://js.devexpress.com/Vue/Documentation/Guide/Vue_Components/Add_DevExtreme_to_a_Vue_Application/#Create_a_Custom_Bundle)
 
 ## More Examples
 
