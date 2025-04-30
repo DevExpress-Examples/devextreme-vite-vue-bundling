@@ -18,8 +18,8 @@
   },
   "dependencies": {
     "@vue/compiler-sfc": "^3.0.0-alpha.11",
-    "devextreme": "23.2.12",
-    "devextreme-vue": "23.2.12",
+    "devextreme": "23.2.13",
+    "devextreme-vue": "23.2.13",
     "vue": "^3.0.0",
     "vue-template-compiler": "^2.5.16"
   }
