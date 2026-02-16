@@ -47,7 +47,7 @@ You can also modify the *main.js* file to include only modules necessary for you
 - [DevExtreme with JSPM](https://github.com/DevExpress-Examples/devextreme-jspm-examples)
 - [DevExtreme with RequireJS](https://github.com/DevExpress-Examples/devextreme-requirejs-examples)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-vite-vue-bundling&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-vite-vue-bundling&~~~was_helpful=no)
 
