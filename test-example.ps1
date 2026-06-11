@@ -102,8 +102,9 @@ function Process-Project {
     $buildScripts = @("build:devextreme-bundle", "build")
 
     try {
-        Write-Output "`nRemoving node_modules: $pwd"
+        Write-Output "`nRemoving node_modules and package-lock.json for a clean install: $pwd"
         Remove-Item -Recurse -Force node_modules -ErrorAction SilentlyContinue
+        Remove-Item -Force package-lock.json -ErrorAction SilentlyContinue
         Install-Packages -folderName $folderName -packages $packages -buildVersion $buildVersion
         Write-Output "`nInstalling remaining packages in $folderName"
         npm install --no-fund --loglevel=error
